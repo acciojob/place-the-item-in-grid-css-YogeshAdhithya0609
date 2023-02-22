@@ -3,3 +3,15 @@
 	grid-template-columns: 100px 100px;
 	grid-template-rows: 100px 100px;
 }
+.item-1{
+	background-color: red;
+}
+.item-2{
+	background-color: yellow;
+}
+.item-3{
+	background-color: gray;
+}
+.item-4{
+	background-color: green;
+}
